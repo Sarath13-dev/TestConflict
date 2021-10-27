@@ -63,6 +63,10 @@ public class BaseClass {
 		element.click();
 		System.out.println("work by A");
 		System.out.println("worked on login ");
+		System.out.println("work by B");
+		System.out.println("Create New Account");
+
+	
 	}
 	
 	
