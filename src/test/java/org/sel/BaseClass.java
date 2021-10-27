@@ -61,6 +61,8 @@ public class BaseClass {
 	
 	public static void buttonClick(WebElement element) {
 		element.click();
+		System.out.println("work by A");
+		System.out.println("worked on login ");
 	}
 	
 	
